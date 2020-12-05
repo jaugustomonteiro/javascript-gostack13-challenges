@@ -1,0 +1,4 @@
+- clientes
+- produtos
+- pedidos
+- PeditosProdutos (id, id_produtos, quantidade, valor)
